@@ -1,0 +1,1 @@
+export const START_EXPERIMENT = 'START_EXPERIMENT';
